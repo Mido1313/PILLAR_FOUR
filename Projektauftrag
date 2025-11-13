@@ -1,0 +1,64 @@
+# **Projektauftrag**
+
+## Projektbezeichnung:
+PFM - Personal Finance Manager (Finanzapp mit Zakat-Funktion)
+(Mobiler Cross-Platform zur Verwaltung von Income/Expenses mit zusätzlicher Zakat-Berechnung für muslimische Nutzer)
+
+## Projektauftraggeber:
+- David Klewein (Lehrkraft)
+
+## Projekthintergrund:
+Uns ist aufgefallen, dass es zwar viele Apps gibt, mit denen man seine persönlichen
+Finanzen bzw. Ein- und Ausgaben im Blick behalten kann, jedoch **keine** Anwendung, die zusätzlich **islamische Richtlinien** berücksicht.
+Unser Ziel ist es daher, eine App zu entwickeln, die **klassische Finanzübersicht** mit einer **Zakat-Funktion** verbindet.
+
+> Zakat: Zakat ist eine verpflichtende Abgabe im Islam, die zu den fünf Säulen gehört. Gläubige Muslime geben einen festgelegten Anteil ihres Vermögens (meist 2,5 % des angesparten Vermögens) an Bedürftige.
+
+## Projektergebnis
+### TBD
+
+## Projektziel(e)
+- **Technisch:** Entwicklung einer cross-platform App mit C#, .NET, Oracle etc
+- **Fachlich:** Umsetzung einer Zakat-Berechnung (2,5% oberhalb der Nisab-Grenze)
+- **Organisatorisch:** Teamwork im dreier Team mit klaren Rollen (Security, UI/UX, Architektur)
+
+## Projektbeschreibung:
+Wir entwickeln eine mobile App, die den Nutzern ermöglicht, ihre Finanzen transparent / simple zu verwalten. Die **Besonderheit** der App liegt auf einem Modul zur Berechnung der **Zakat**, einer religiösen Pflichtgabe im Islam.
+Die App wird als **Prototyp** realisiert und soll folgende Hauptfunktionen enthalten:
+* Zakat-Rechner
+* Einnahmen- und Ausgabenverwaltung
+* Übersichtliche Darstellung durch Diagramme
+* Benutzerfreundliche Oberfläche (UI/UX-Design)
+* Grundlegende Sicherheitsfunktionen (Login, Passworthashing, Login via Passkeys)
+* Kategorisierung der Ein- und Ausgaben (Durch AI/ML?)
+* Synchroniserung zwischen Ehepaaren
+* Exportierung als Exceldatei
+
+## Meilensteine:
+
+## Freigaben
+
+## Projektstart:
+**25.09.2025**
+
+## Projektende:
+**01.06.2026**
+
+## Projektressourcen:
+- Zeit: TBD
+- Budget: TBD
+- Tools / Software: TBD
+
+## Projektrisiken:
+- Technisch:
+    * Mangelndes Vorwissen
+- Organisatorisch:
+    * Zeitmanagement im Dreier-Team (Berufstätigkeit + Schule)
+- Fachlich:
+  * Risiko, dass Security-Features zu komplex werden
+
+## Projektorganisation:
+### TBD
+
+## Abschluss des Projektauftrags:
+### TBD
